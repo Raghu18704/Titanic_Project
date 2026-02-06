@@ -1,11 +1,11 @@
-# Titanic Survival Prediction Web App 🚢
+# Titanic Survival Prediction Web App
 
 This project predicts whether a passenger survived the Titanic disaster using a Logistic Regression model.  
 The trained model is deployed using Flask as a web application.
 
 ---
 
-## 🚀 Features
+## Features
 - Logistic Regression classification
 - Real-time prediction using web form
 - Flask-based deployment
@@ -13,7 +13,7 @@ The trained model is deployed using Flask as a web application.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python
 - Flask
 - Scikit-learn
@@ -23,29 +23,10 @@ The trained model is deployed using Flask as a web application.
 ---
 
 ## Project Structure
-# Titanic Survival Prediction Web App 🚢
+# Titanic Survival Prediction Web App 
 
 This project predicts whether a passenger survived the Titanic disaster using a Logistic Regression model.  
 The trained model is deployed using Flask as a web application.
-
----
-
-## 🚀 Features
-- Logistic Regression classification
-- Real-time prediction using web form
-- Flask-based deployment
-- Beginner-friendly ML project
-
----
-
-## Tech Stack
-- flask
-- numpy
-- pandas
-- scikit-learn
-- joblib
-- matplotlib
-- seaborn
 
 ---
 
@@ -73,7 +54,7 @@ python app.py
 
 # Open In Browser
 
-http://127.0.0.1:8000
+http://127.0.0.1:9000
 
 ## Model Performance
 * Accuracy: ~80%
